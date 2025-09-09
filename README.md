@@ -47,7 +47,7 @@
 
 <div align="center">
   <br>
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=7smd7&langs_count=6&hide=jupyter%20notebook,html&exclude_repo=7smd7.github.io"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7smd7&langs_count=6&hide=jupyter%20notebook,html&exclude_repo=7smd7.github.io"/>
     <img src="https://github-readme-stats.vercel.app/api?username=7smd7&show_icons=true&count_private=true&include_all_commits=true&line_height=33"/>
     </br>
 </div>
