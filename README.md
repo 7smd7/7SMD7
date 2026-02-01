@@ -33,7 +33,7 @@
 
 #### Volunteering experience:
 * **2025.05-till present:** Iran Web and Mobile Festival (IWMF) Software Engineer - Web Developer
-* **2025.05-till present:** Armenian Volunteer Corps - Web Developer
+* **2025.11-2025.12:** Armenian Volunteer Corps - Web Developer
 * **2020.01-2021.03:** Iran Web and Mobile Festival - Photographer
 * **2020.07-2020.09:** Innovation Station - Social Media Manager (Intern)
 * **2017.09-2017.11:** Realup - Social Media Manager
