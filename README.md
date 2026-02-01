@@ -27,11 +27,13 @@
 * **High School Diploma in Mathematics** (National Organization for Development of Exceptional Talents - Sampad). 2010-2017
 
 #### Work experience:
-* **2025.05-till present:** Iran Web and Mobile Festival (IWMF) Software Engineer (Fullstack - Laravel) @ Part-time
-* **2024.11-2025.04:** Eshareh Communication Agency Software Engineer (Frontend - Next.js) @ Full-time
+
+* **2024.11-till present:** Eshareh Communication Agency Software Engineer (Frontend - Next.js) @ Full-time
 * **2021.11-2022.04:** Triboon (sub-company of Yektanet) Software Engineer (Backend - Django) @ Full-time
 
 #### Volunteering experience:
+* **2025.05-till present:** Iran Web and Mobile Festival (IWMF) Software Engineer - Web Developer
+* **2025.05-till present:** Armenian Volunteer Corps - Web Developer
 * **2020.01-2021.03:** Iran Web and Mobile Festival - Photographer
 * **2020.07-2020.09:** Innovation Station - Social Media Manager (Intern)
 * **2017.09-2017.11:** Realup - Social Media Manager
